@@ -13,15 +13,16 @@ p{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-align: left;
 }
-div #li1AMF{
+div#li1AMF{
 object-position: center ;
-style-type: square;
+list-style-type: square;
 }
-div #info-henryford{
+div#info-henryford{
  text-decoration: underline;
+ 
 
 }
-div #imagen-henryford{
+div#imagen-henryford{
 position-area: 100px;
 
 
