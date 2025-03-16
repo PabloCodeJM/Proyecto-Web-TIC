@@ -1,0 +1,28 @@
+body{
+    background-color: burlywood;
+}
+
+h2{
+ color: blue;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ background-color: rgb(123, 104, 76);
+}
+
+p{
+ color: #010105;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: left;
+}
+div #li1AMF{
+object-position: center ;
+style-type: square;
+}
+div #info-henryford{
+ text-decoration: underline;
+
+}
+div #imagen-henryford{
+position-area: 100px;
+
+
+}
