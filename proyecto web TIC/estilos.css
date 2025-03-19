@@ -1,0 +1,309 @@
+header {
+    background: linear-gradient(90deg, #00ff88, #2980B9);
+    padding: 20px;
+    text-align: center;
+    color: rgb(68, 109, 25);
+    font-size: 24px;
+    font-weight: bold;
+}
+#parrafo-index{
+    text-align: center;
+    color: rgb(68, 109, 25);
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px;
+
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    position: right;
+    bottom: 0;
+    width: fit-content;
+}
+
+footer a {
+    color: #2980B9;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    background: linear-gradient(180deg, #ffffff,  #a1a2a2 );
+    
+}
+
+.enlaces-index{
+box-sizing: border-box;
+background: #f4f4f4;
+color: blueviolet;
+width: 20%;
+border-radius: 20%;
+padding: 5px;
+border: 5px;
+}
+.enlaces-index:hover{
+    background: blueviolet;
+    color: #f4f4f4;
+    width: 25%;
+    border-radius: 20%;
+    padding: 15px;
+    border: 15px;
+
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+    color: #d1e3f5;
+    background: #fd0000;
+    position-anchor: center;
+}
+
+h3 {
+    margin-top: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #d1e3f5;
+    background: #ff2e2e;
+}
+#quieres-saber-mas {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-size: contain;
+    background-color: #4400ff;
+    opacity:calc(90%);
+    color: #ff004c;
+    box-sizing: content-box;
+    width: fit-content;
+
+}
+#pincha-aqui {
+
+    color: aqua;
+}
+#pincha-aqui:hover {
+    text-decoration: wavy;
+    color: rgb(111, 0, 255);
+}
+#ferrari {
+
+    height: auto;
+    margin-right: 20px;
+    margin-left: auto;
+    width: 23%;
+    position: bottom, right;
+}
+p {
+    margin-bottom: 15px;
+    font-size: 1.1em;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+    color: antiquewhite;
+    text-size-adjust:inherit;
+}
+
+.box {
+    width: 80%;
+    background-color: #2C3E50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+}
+#seccion-ford {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+}
+
+#imagen-henryford  {
+    height: auto;
+    margin-right: 20px;
+    width: 60%;
+}
+#info-henryford {
+    border-radius: 10%;
+    color: #2980B9;
+
+
+}
+#info-henryford:hover {
+    border-radius: 5%;
+    color: green;
+    background: #2980B9;
+
+}
+.vuelta-inicio {
+    border-radius: 10%;
+    color: #2980B9;
+
+
+}
+.vuelta-inicio:hover{
+    border-radius: 10%;
+    color: #2980B9;
+
+
+}
+
+#parrafo-imagen  {
+    width: 35%;
+    text-align: justify;
+    font-size: 1.1em;
+}
+#debajo-imagen {
+    margin-top: 30px;
+}
+#Lista-coches {
+    list-style: none;
+    padding-left: 0;
+
+}
+
+
+#Lista-coches li {
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
+
+#Lista-coches li a {
+    color: #2C3E50;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Lista-coches li a:hover {
+    text-decoration: underline;
+}
+
+#Coches-lista {
+    color: #2980B9;
+    text-decoration: none;
+}
+
+#Coches-lista:hover {
+    text-decoration: underline;
+}
+.foto-coche-feo{
+    margin: 5px;
+    background: black;
+    padding: 2px;
+    height: 350px;
+    width: auto;
+}
+#derecha{
+    float: right;
+}
+
+table {
+ margin: 20px auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 2px solid #333;
+}
+
+th, td {
+    padding: 10px;
+
+    text-align: left;
+}
+
+
+
+
+td {
+    background-color: #fef6f6;
+}
+th {
+    background-color: #2C3E50;
+    color: #fd0000;}
+th a{
+    color: #ffffff;
+}
+th a:hover{
+    background-color: #ffffff;
+    color:  #2C3E50;
+}
+
+ul {
+    margin: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+li{
+  margin-bottom: 20px;
+    font-weight: bold;
+}
+ul,li, h3 {
+    font-weight: bold;
+}
+
+/*a partir de aquí es styles 2*/
+h2, h3 {
+    color: #2C3E50;
+   
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2em;
+}
+
+h3 {
+    margin-top: 10px;
+    font-size: 1.5em;
+    width: fit-content;
+}
+
+ul, ol {
+    margin: 20px;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px 0;
+}
+
+ul li, ol li {
+    margin-bottom: 10px;
+}
+
+ul li h3, ol li h3 {
+    font-weight: bold;
+}
+
+h2, h3 {
+    color: #333;
+    font-weight: bold;
+}
+
+
